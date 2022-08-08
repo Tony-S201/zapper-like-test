@@ -4,7 +4,7 @@
 
 * [Moralis](https://www.moralis.io/)
 * [Mitt](https://github.com/developit/mitt)
-* [PrimeVUE](https://www.primefaces.org/primevue/)
+* [ElementUI](https://element.eleme.io/)
 
 ### To start the application
 
