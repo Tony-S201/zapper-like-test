@@ -1,10 +1,14 @@
 # zapper-like project
 
-### Libraries and tools
+### Libraries
 
 * [Moralis](https://www.moralis.io/)
 * [Mitt](https://github.com/developit/mitt)
-* [PrimeVUE](https://www.primefaces.org/primevue/)
+* [ElementUI](https://element.eleme.io/)
+
+### Tools
+
+* [Wireframes|cc](https://wireframe.cc/)
 
 ### To start the application
 
