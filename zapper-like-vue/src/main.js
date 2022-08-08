@@ -8,6 +8,7 @@ import mitt from 'mitt'
 
 import MoralisFactory from './moralis'
 import MoralisCompose from './composer'
+import './plugins/element.js'
 
 const app = createApp(App).use(store).use(router)
 
