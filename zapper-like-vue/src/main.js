@@ -18,6 +18,9 @@ import MoralisCompose from './composer'
 import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
 
+// Main CSS file.
+import './assets/css/main.css'
+
 const app = createApp(App)
 
 app.use(i18n)
